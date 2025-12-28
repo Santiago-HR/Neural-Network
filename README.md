@@ -62,13 +62,16 @@ To analyze the effect of model capacity, the hidden layer size was increased.
 - Output layer: 10 neurons (Softmax)
 <img width="544" height="176" alt="image" src="https://github.com/user-attachments/assets/f39c34ea-3b90-4ecd-8704-88a641dc4fcf" />
 
+<img width="2214" height="804" alt="image" src="https://github.com/user-attachments/assets/e0f836eb-98b2-44b6-a1d1-e33d7f568226" />
+
+
+
 ### Results
 - Improved accuracy compared to the smaller network
 - Faster convergence
 - Reduced loss
 - Achieved approximately **98% accuracy**
 
-Training curves, confusion matrix, and prediction visualizations are included in the assignment results :contentReference[oaicite:1]{index=1}.
 
 ---
 
@@ -84,12 +87,13 @@ A **Convolutional Neural Network (CNN)** was designed to achieve high classifica
 - Dense (128 neurons, ReLU)
 - Dense (10 neurons, Softmax)
 
-<img width="2120" height="932" alt="image" src="https://github.com/user-attachments/assets/fd79c464-c5bb-450f-9f59-136934966da3" />
-
 ### Performance
 - Achieved approximately **99% accuracy**
 - Average F1-score ≈ **0.99**
 - Strong performance across all digit classes
+
+
+<img width="2120" height="932" alt="image" src="https://github.com/user-attachments/assets/fd79c464-c5bb-450f-9f59-136934966da3" />
 
 <img width="1292" height="1110" alt="image" src="https://github.com/user-attachments/assets/064bfc8e-b1fa-4f01-bc85-3bedce0a013f" />
 
