@@ -1,6 +1,6 @@
-# MNIST Neural Network Classification (Programming Assignment 5)
+# MNIST Neural Network Classification 
 
-This repository contains my implementation for **Programming Assignment 5**, which focuses on building, training, and evaluating neural network models using the **MNIST handwritten digits dataset**.  
+This repository contains my implementation for a neural network, which focuses on building, training, and evaluating neural network models using the **MNIST handwritten digits dataset**.  
 The assignment explores progressively more complex models, starting from a simple fully connected neural network and ending with a custom convolutional neural network (CNN) achieving ~99% average F1 score.
 
 ---
